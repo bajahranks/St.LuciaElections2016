@@ -1,3 +1,5 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/default)](https://techforpalestine.org/learn-more)
+
 # St. Lucia Elections Results 2016
 
 This is a visualization of the 2016 general elections results in St. Lucia.  
